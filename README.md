@@ -1,2 +1,3 @@
 # speedtypinggame
-Speed Typing game, made in React
+
+Speed Typing game, made in React.
